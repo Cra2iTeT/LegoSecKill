@@ -65,6 +65,6 @@ CREATE TABLE `user`  (
 -- ----------------------------
 -- Records of user
 -- ----------------------------
-INSERT INTO `user` VALUES (1618588186685067264, '15280775219', '123456');
+INSERT INTO `user` VALUES (1618588186685067264, '15212001100', '123456');
 
 SET FOREIGN_KEY_CHECKS = 1;
